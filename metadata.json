@@ -1,0 +1,9 @@
+{
+    "uuid": "crypto-prices@admiralvint",
+    "name": "Crypto Price Tracker",
+    "description": "Displays Bitcoin and Ethereum prices in the top bar",
+    "version": 1,
+    "shell-version": ["42", "43", "44", "45"],
+    "url": "https://github.com/admiralvint/crypto-prices",
+    "session-modes": ["unlock-dialog", "user"]
+}

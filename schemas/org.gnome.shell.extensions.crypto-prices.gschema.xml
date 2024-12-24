@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.crypto-prices" path="/org/gnome/shell/extensions/crypto-prices/">
+        <key name="refresh-interval" type="i">
+            <default>60</default>
+            <summary>Refresh interval</summary>
+            <description>Time in seconds between price updates</description>
+        </key>
+    </schema>
+</schemalist>

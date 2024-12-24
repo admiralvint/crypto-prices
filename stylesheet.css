@@ -1,0 +1,10 @@
+.crypto-prices-label {
+    padding: 0 10px;
+    font-size: 14px;
+    font-weight: normal;
+    color: #FFD700;
+}
+
+.crypto-prices-error {
+    color: #ff6b6b;
+}
